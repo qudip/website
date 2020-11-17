@@ -1,6 +1,4 @@
 import React from 'react';
-import NavBar from './components/Navbar.js';
-import Footer from './components/Footer.js';
 import Portfolio from './components/Portfolio.js';
 import Education from './components/Education.js';
 import About from './components/About.js';
