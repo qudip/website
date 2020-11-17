@@ -4,7 +4,7 @@ import React from 'react';
 
 function EggOne() {
   return (
-    <a>bhfgd</a>
+    <a>ill admit i got lazy and didnt finish this easter egg so congrats on finding this i guess</a>
   );
 }
 

@@ -42,7 +42,7 @@ function About() {
         
       <blockquote className="blockquote" style={headertext}>Skills</blockquote>
         <SkillBar />
-      <blockquote className="blockquote" style={headertext}>Interests</blockquote>
+    
       <Footer/>
     </div>
   );
