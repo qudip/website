@@ -38,7 +38,7 @@ function About() {
         my job experience at The University of Guelph allowed me to understand the imporytance of testing and QA. As I am now independantly learning I am
         focusing on mobile computing and game development. In the future I hope to work on more compicated somejects that interest me, like machine learning
         and cryptography.
-      </blockquote><br/>
+      </blockquote><br/><br />
         
       <blockquote className="blockquote" style={headertext}>Skills</blockquote>
         <SkillBar />

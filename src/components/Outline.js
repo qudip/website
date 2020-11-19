@@ -10,7 +10,7 @@ const Outline= (props) => {
   };
   const jumbotext = {
     color:'white',
-    fontSize: '24px',
+    fontSize: '22px',
     textShadow: "-1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000"
   };
   return (
@@ -21,7 +21,7 @@ const Outline= (props) => {
                         marginBottom: 0,
                         }} fluid>
         <Container>
-          <h1 className="display-2 lead" 
+          <h1 className="display-3 lead" 
               style={jumbostyle}>{props.header}
           </h1>
             <br/>

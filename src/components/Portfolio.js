@@ -43,7 +43,7 @@ function Portfolio() {
           skills={mobSkills}
         />
       </Accordion>
-      <br /><br /><br /><br /><br /><br />
+      <br /><br /><br /><br /><br /><br /><br />
       <Footer/>
     </div>
 

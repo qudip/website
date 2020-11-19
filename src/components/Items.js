@@ -9,8 +9,7 @@ const Items = (props) => {
   skills = props.skills
 
   return (
-    <div>
-      <Card>
+    <div> 
         <Accordion.Toggle as={Card.Header} eventKey={props.eventkey}>
           <blockquote className="blockquote">{props.title}</blockquote>
         </Accordion.Toggle>
@@ -27,7 +26,7 @@ const Items = (props) => {
             ))}
           </Card.Body>
         </Accordion.Collapse>
-      </Card>
+   
     </div>
   );
 }
