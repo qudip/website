@@ -18,8 +18,8 @@ function About() {
   const text = {
     fontSize: '18pt',
     textAlign: 'center',
-    paddingLeft: 100,
-    paddingRight: 100
+    paddingLeft: 15,
+    paddingRight: 15
   };
 
   return (

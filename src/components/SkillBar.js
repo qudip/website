@@ -48,8 +48,8 @@ const SkillBar = (props) => {
 
     return (
         <div style={{
-            paddingLeft: 100,
-            paddingRight: 100
+            paddingLeft: 15,
+            paddingRight: 15
             }}>
             <HorizontalBar data={data}
                 height={500}
