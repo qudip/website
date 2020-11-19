@@ -26,7 +26,7 @@ function Education() {
       <Outline image='./education-image.jpg'
                header="Educaton"
                subheader="Bachelor of Computing, Honours in Software Engineering. Minor in Business. Take a look at all
-                          my relavent classNameNamees I've completed."
+                          my relavent classes I've completed."
       />
       <Accordion>
         <Items eventkey="0"

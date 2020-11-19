@@ -23,7 +23,7 @@ function Footer() {
           <a href="https://www.instagram.com/quinndipp/?hl=en">
             <InstagramIcon style={style} />
           </a>
-          <a href="https://github.com/QuinnDip">
+          <a href="https://github.com/qudip">
             <GitHubIcon style={style} />
           </a>
           <a href="https://www.linkedin.com/in/quinn-dipaolo-32b18b150">

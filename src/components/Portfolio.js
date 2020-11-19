@@ -29,12 +29,12 @@ function Portfolio() {
         />
         <Items eventkey="1"
           title="Data Structure APIs"
-          description="Implemented various data structures in C"
+          description="Implemented various data structures in C such as stacks, queues, binary search trees, and more"
           skills={apiSkills}
         />
         <Items eventkey="2"
           title="VCard Parser"
-          description="An effient parser"
+          description="An effient and robust parser based on RFC 6350 specification"
           skills={prsSkills}
         />
         <Items eventkey="3"
