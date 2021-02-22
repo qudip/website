@@ -30,7 +30,7 @@ function About() {
                subheader={fuck}
       /><br/>
         
-      <blockquote className="blockquote" style={headertext}>Who I am</blockquote>
+      <blockquote className="blockquote" style={headertext}>BARTS A BITCH</blockquote>
       <blockquote className="blockquote" style={text}>
       I have always been obsessed with computers and how we interact with them. The evolution of technology fascinates me and I hope to someday contribute to it in some capacity. During my studies, I became extremely proficient in C as well as working on full-stack apps in an agile environment. Moreover,
 my job experience allowed me to gain experience in testing and QA. As I am now independently learning I am focusing on mobile computing and game development.
